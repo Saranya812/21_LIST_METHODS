@@ -1,0 +1,12 @@
+                         '''LIST METHODS'''
+               
+               .append()         
+               .clear()
+               .remove()
+               .pop()
+               .extend()
+               .insert()
+               .count()
+               .index()
+               .reverse()
+               .sort()
